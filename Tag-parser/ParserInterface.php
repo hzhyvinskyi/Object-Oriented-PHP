@@ -5,7 +5,7 @@
  */
 interface ParserInterface
 {
-    /*
+    /**
      * @param string $url
      * @param string $tag
      * @return array
