@@ -3,7 +3,7 @@
 /**
  * @author Roman Hzhyvinskyi <hzhyvinskyi@gmail.com>
  */
-interface ParserInterface
+interface TagParserInterface
 {
     /**
      * @param string $url
